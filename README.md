@@ -25,7 +25,7 @@ Let's find out by seeing Features of it.
 - ✔️ Send a mail to your email address with the file attachments.
 - ✔️ Delete all the files and folder created after the attack.
 - ✔️ Can run in Background.
-- [ ] Suitable to all Operating Systems (Only for linux).
+-  ❌ Suitable to all Operating Systems (Only for linux).
 
 As you can see my Feature rich one So, that's why I called it as ***Multifunctional Advanced Keylogger***.
 
@@ -57,5 +57,8 @@ First of all you need is ![Pycharm](https://img.shields.io/badge/IDE-PYCHARM-gre
 
 ## Connect with me! 🌐
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/lakshmi-deeapk-karumuri-402460207)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/LakshmiDeepak9653)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://www.instagram.com/deepakvevo/) 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png" title="FaceBook">](https://www.facebook.com/deepak.karumuri.3) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png" title="Twitter">](https://twitter.com/deepak_karumuri)
+[![LinkedIn](https://img.icons8.com/bubbles/100/000000/linkedin.png)](https://www.linkedin.com/in/lakshmi-deeapk-karumuri-402460207)
+[![GitHub](https://img.icons8.com/bubbles/100/000000/github.png)](https://github.com/LakshmiDeepak9653)
+[![Instagram](https://img.icons8.com/bubbles/100/000000/instagram-new.png)](https://www.instagram.com/deepakvevo/)
+[![FaceBook](https://img.icons8.com/bubbles/100/000000/facebook.png)](https://www.facebook.com/deepak.karumuri.3)
+[![Twitter](https://img.icons8.com/bubbles/100/000000/twitter.png)](https://twitter.com/deepak_karumuri)
